@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj": {}
+    "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj": {
+    "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj",
         "projectName": "EcommerceApplication.Infrastructure",
-        "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure\\EcommerceApplication.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anandhakrishnan.al\\AppData\\Roaming\\NuGet\\NuGet.Config",

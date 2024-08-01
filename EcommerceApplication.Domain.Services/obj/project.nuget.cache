@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUaf5r9/Z9M=",
+  "dgSpecHash": "gSL1MHZA9MU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj",
+  "projectFilePath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

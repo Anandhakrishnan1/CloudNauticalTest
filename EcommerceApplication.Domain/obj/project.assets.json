@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain\\EcommerceApplication.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain\\EcommerceApplication.Domain.csproj",
       "projectName": "EcommerceApplication.Domain",
-      "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain\\EcommerceApplication.Domain.csproj",
+      "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain\\EcommerceApplication.Domain.csproj",
       "packagesPath": "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain\\obj\\",
+      "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anandhakrishnan.al\\AppData\\Roaming\\NuGet\\NuGet.Config",

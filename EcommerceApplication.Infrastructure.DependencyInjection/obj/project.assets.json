@@ -768,11 +768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure.DependencyInjection\\EcommerceApplication.Infrastructure.DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure.DependencyInjection\\EcommerceApplication.Infrastructure.DependencyInjection.csproj",
       "projectName": "EcommerceApplication.Infrastructure.DependencyInjection",
-      "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure.DependencyInjection\\EcommerceApplication.Infrastructure.DependencyInjection.csproj",
+      "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure.DependencyInjection\\EcommerceApplication.Infrastructure.DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Infrastructure.DependencyInjection\\obj\\",
+      "outputPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Infrastructure.DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anandhakrishnan.al\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -790,8 +790,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj": {
-              "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\Application\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj"
+            "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj": {
+              "projectPath": "C:\\Users\\anandhakrishnan.al\\OneDrive - PITSOLUTIONS\\Desktop\\test\\CloudNauticalTest\\EcommerceApplication.Domain.Services\\EcommerceApplication.Domain.Services.csproj"
             }
           }
         }
